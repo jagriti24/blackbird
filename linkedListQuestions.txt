@@ -1,0 +1,16 @@
+1)  Find the middle element in a linked list.
+
+2) Find secon or third last element in linked list.
+
+3) Reverse a linked list.
+
+4) Check if the string in a linked list is apllindrome or not: (Zynga)
+   a) each node contains one character. e.g  A->B->C->B->C->A
+   b) each node contains undefined number of characters.  e.g AB->CDE->F->E->DC->B->A 
+
+4) Find if a linked list has a loop or not. find position of loop e.g N1->N2->N3->N4->N5->N3 (Amazon)
+
+5) Find if two linked lists converge at a prticular point or not. e.g N1->N2->N3->N4->N5->N6, N7->N8->N4->N5->N6 (Quikr.com)
+
+
+
